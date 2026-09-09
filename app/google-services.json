@@ -1,0 +1,92 @@
+{
+  "project_info": {
+    "project_number": "623094906075",
+    "project_id": "paysetu-4dc5e",
+    "storage_bucket": "paysetu-4dc5e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:623094906075:android:a785049eccfbcc1b0120fe",
+        "android_client_info": {
+          "package_name": "com.paysetu.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "623094906075-pl19549hf1o8evknk2q06818jbqbec07.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.paysetu.app",
+            "certificate_hash": "a85e31790ab85f57098a93e9a2a1220eab6b305e"
+          }
+        },
+        {
+          "client_id": "623094906075-ten8f1hldejg5re4aqj7fjp97n9qj7vj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.paysetu.app",
+            "certificate_hash": "47136b0ab89b7c6fd0f96ab9092b11215f360cfd"
+          }
+        },
+        {
+          "client_id": "623094906075-stn9271rqkivkl689aivkgqifa4f5686.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAumF2Lk_t_24QDolL8SyBbBk0A4wMFmk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "623094906075-stn9271rqkivkl689aivkgqifa4f5686.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:623094906075:android:ce6950ee3a7178850120fe",
+        "android_client_info": {
+          "package_name": "com.paysetu.setuhub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "623094906075-m6mir49hrudhkf7e94t2cea3g55modbb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.paysetu.setuhub",
+            "certificate_hash": "a85e31790ab85f57098a93e9a2a1220eab6b305e"
+          }
+        },
+        {
+          "client_id": "623094906075-stn9271rqkivkl689aivkgqifa4f5686.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAumF2Lk_t_24QDolL8SyBbBk0A4wMFmk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "623094906075-stn9271rqkivkl689aivkgqifa4f5686.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

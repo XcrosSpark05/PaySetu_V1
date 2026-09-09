@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "601910593867",
+    "project_id": "paysetu-82802",
+    "storage_bucket": "paysetu-82802.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:601910593867:android:5cc05ee835c16d366a80ce",
+        "android_client_info": {
+          "package_name": "com.paysetu.offlinevault"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "601910593867-861hm5676pidddnvggv40f7gubp8rtp4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.paysetu.offlinevault",
+            "certificate_hash": "419a57ff5018dc2091ec3eb7afd579d3d296cbe0"
+          }
+        },
+        {
+          "client_id": "601910593867-okc0adfufgfq1l3rejkde2i9jiglqotk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQ4BXQAmgJLP7Z7FM4dxjpnjnGGl19MPY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "601910593867-okc0adfufgfq1l3rejkde2i9jiglqotk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -2,18 +2,20 @@ plugins {
     alias(libs.plugins.android.application)
     alias(libs.plugins.kotlin.android)
     alias(libs.plugins.kotlin.compose)
+
+
     id("com.google.gms.google-services")
-    id("com.google.devtools.ksp") // ADD THIS
+    id("com.google.devtools.ksp")
 }
 
 android {
-    namespace = "com.paysetu.offlinevault"
+    namespace = "com.paysetu.app"
     compileSdk {
         version = release(36)
     }
 
     defaultConfig {
-        applicationId = "com.paysetu.offlinevault"
+        applicationId = "com.paysetu.app"
         minSdk = 26
         targetSdk = 36
         versionCode = 1
@@ -80,7 +82,7 @@ dependencies {
     implementation("net.zetetic:sqlcipher-android:4.6.0") // Use the newer artifact name
     implementation("androidx.sqlite:sqlite:2.4.0")
 
-    implementation("com.google.android.gms:play-services-nearby:19.0.0")
+    // implementation("com.google.android.gms:play-services-nearby:19.0.0")
     implementation("com.google.android.gms:play-services-auth:21.0.0")
     implementation("com.google.android.gms:play-services-base:18.5.0")
     // Replace the problematic line with this one:
